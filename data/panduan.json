@@ -1,0 +1,15 @@
+{
+  "dapatemail": {
+    "keyword": ["mendapatkan email", "email", "email dinas"],
+    "jawaban": "💡 kamu bisa mendapatkan email dinas dengan mengisi formulir dan mengirim formulir tersebut ke persandian diskominfo"
+  },
+  "kesalahan_umum": {
+    "keyword": ["gagal", "error", "tidak bisa login", "aktivasi gagal"],
+    "jawaban": "⚠️ Jika terjadi error saat aktivasi TTE, pastikan jaringan internet stabil dan foto wajah sesuai panduan. Jika masih gagal, hubungi Bidang Persandian."
+  },
+  "spbe": {
+    "keyword": ["spbe", "sistem pemerintahan berbasis elektronik"],
+    "jawaban": "🏛️ SPBE adalah sistem tata kelola pemerintahan berbasis teknologi informasi yang mendukung transformasi digital dan efisiensi layanan publik."
+  }
+
+}
